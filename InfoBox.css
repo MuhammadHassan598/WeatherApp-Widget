@@ -1,0 +1,11 @@
+.infoBox{
+    text-align: center;
+}
+.infoCard{
+    display: flex;
+    justify-content: center;
+}
+.cardImage{
+    
+    border-radius: 1rem;
+}
